@@ -1,2 +1,2 @@
 # Colab
-Repositorio cria para os projetos realizados, principalmente para salvar como backup
+Repositorio criado para os projetos realizados, principalmente para salvar como backup
